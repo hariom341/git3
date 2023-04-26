@@ -3,6 +3,6 @@ let  num = 67 ;
    console.log(num , " is even")
  }
 else {
-     console.log(num , " is even")
+     console.log(num , " is odd")
 
 }
